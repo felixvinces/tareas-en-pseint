@@ -122,7 +122,7 @@ Algoritmo ejercicios_de_los_videos
 	
 	Escribir "ejercicio #9" // para que divida el la ventana al ejecutar cada ejercicio
 	
-	Funcion sumar  (dato1,dato2 )
+
 	
 FinAlgoritmo
 
